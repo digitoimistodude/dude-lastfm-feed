@@ -1,0 +1,16 @@
+{
+  "name": "digitoimistodude/dude-lastfm-feed",
+  "type": "wordpress-plugin",
+  "description": "Dude Last.fm feed",
+  "homepage": "https://github.com/digitoimistodude/dude-lastfm-feed",
+  "keywords": ["wordpress", "plugin"],
+  "license": "MIT",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Timi Wahalahti",
+      "email": "timi@dude.fi",
+      "homepage": "https://www.dude.fi"
+    }
+  ]
+}
